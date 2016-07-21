@@ -1,0 +1,55 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: LOVELAND Support
+email: support@makeloveland.com
+description: > # this means to ignore newlines until "baseurl:"
+  Help and support for the Loveland tools, including SiteControl
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: makeloveland
+# github_username:  loveland
+category-list: [Getting Started, Maps, Your Account, Adding Data, Managing Data, Surveying]
+
+# We're treating pages in a special way
+# See https://jekyllrb.com/docs/collections/
+collections:
+  articles:
+    output: true
+    permalink: /articles/:path/
+defaults:
+  -
+    scope:
+      path: ""        # Any file ...
+      type: articles  # ... of type article
+    values:
+      layout: "article"
+
+# Build settings
+markdown: kramdown
+# Prose settings
+prose:
+  metadata:
+    _articles:
+      - name: "categories"
+        field:
+          label: "Categories"
+          element: "select"
+          options:
+            - name: "Getting Started"
+              value: "Getting Started"
+            - name: "Maps"
+              value: "Maps"
+            - name: "Your Account"
+              value: "Your Account"
+            - name: "Adding Data"
+              value: "Adding Data"
+            - name: "Managing Data"
+              value: "Managing Data"
+            - name: "Surveying"
+              value: "Surveying"
