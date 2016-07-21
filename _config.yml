@@ -36,6 +36,16 @@ markdown: kramdown
 prose:
   metadata:
     _articles:
+      - name: "intro"
+        field:
+          label: "Intro"
+          element: "text"
+          help: "A one-ish sentence introduction of the topic"
+      - name: "weight"
+        field:
+          label: "Weight"
+          element: "number"
+          help: "Number representing how 'heavy' the article is. Heavier articles sink further down the list"
       - name: "categories"
         field:
           label: "Categories"
