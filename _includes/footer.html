@@ -19,9 +19,10 @@
 
 <script type="text/javascript">
   $(function() {
-    $('.sidenav .category').click(function(e) {
+    $('.sidenav .category h2').click(function(e) {
       e.preventDefault();
-      $(e.target).closest('.post-list').toggleClass('active');
+      console.log($(e.target));
+      $(e.target).closest('.category').toggleClass('active');
     })
   });
 </script>

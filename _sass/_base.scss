@@ -1,6 +1,14 @@
-/**
- * Reset some basic elements
- */
+@keyframes fadeInDown {
+   0% {
+      opacity: 0;
+      transform: translateY(-20px);
+   }
+   100% {
+      opacity: 1;
+      transform: translateY(0);
+   }
+}
+
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -73,7 +81,7 @@ a {
 
   &:hover {
     color: $text-color;
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 
@@ -126,6 +134,17 @@ header.company {
   a .fa {
     color: #68af7e;
   }
+
+  a {
+    text-transform: uppercase;
+    display: inline-block;
+    margin-right: 35px;
+    padding-top: 3px;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
 }
 
 header.main {
@@ -146,28 +165,81 @@ header.main {
 
 /* Front page */
 .front {
+  .intro {
+    background: transparent url(../img/space.jpg) no-repeat center bottom;
+    background-size: cover;
+    overflow: auto;
+    margin-bottom: 50px;
+    margin-top: -30px;
+
+    .in {
+      display: inline-block;
+      bbackground: #34474c;
+      padding: 35px;
+      margin: 30px 30px 30px 25%;
+      color: #fff;
+      width: calc(75% - 30px);
+
+      h1,
+      p {
+        margin: 0;
+      }
+    }
+  }
+
   section.category {
     margin-bottom: 25px;
+
+    .article {
+      margin-bottom: 20px;
+    }
 
     h2, h3 {
       font-family: $base-font-family;
     }
 
+    h2 {
+      font-size: 24px;
+    }
+
+    h3 {
+      font-size: 16px;
+      font-weight: 700;
+      margin-bottom: 0px;
+    }
+
     h3 a {
-      color: #664a64;
+      color: $link-color;
     }
   }
 }
 
 /* Article page */
 
-h2.category {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  font-weight: 700;
+.sidenav {
+  h2 {
+    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  ul {
+    display: none;
+    -webkit-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+    -webkit-animation-duration: 0.5s;
+    animation-duration: 0.5s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
+
+  .active ul {
+    display: block;
+  }
 }
 
 .post-list a {
-  color: #1f628c;
+  color: $link-color;
 }
 
 ul.post-list,

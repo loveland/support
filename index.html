@@ -1,20 +1,30 @@
 ---
 layout: default
 ---
-<div class="front">
+<div class="front col-md-12">
+  <div class="intro">
+    <div class="in">
+      <h1>How can we help?</h1>
+<!--       <p>Something about how we want to help.</p>
+ -->    </div>
+  </div>
+
 {% for category in site.category-list %}
-  <section class="category">
-    <div class="col-sm-3"></div>
+  <section class="category row">
+    <div class="col-sm-3">
+      <h2>{{ category }}</h2>
+    </div>
 
     <div class="col-sm-9 col-md-7">
-      <h2>{{ category }}</h2>
       {% assign articles = site.articles | where: 'category', category %}
       {% assign articles = articles | sort: 'weight' %}
       {% for article in articles %}
-        <h3>
-            <a class="post-link" href="{{ article.url | prepend: article.baseurl }}">{{ article.title }}</a>
-        </h3>
-        <p>{{ article.intro }}</p>
+        <div class="article">
+          <h3>
+              <a class="post-link" href="{{ article.url | prepend: article.baseurl }}">{{ article.title }}</a>
+          </h3>
+          <p>{{ article.intro }}</p>
+        </div>
       {% endfor %}
     </div>
   </section>

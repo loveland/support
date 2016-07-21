@@ -2,6 +2,7 @@
 title: Sharing your Maps
 category: Maps
 weight: 1
+intro: How to share your maps with your team or the whole world
 ---
 
 Because we want to give you as much control over what you share, and who you share it with, there are a few ways to share a Site Control map (if you just want to know where the control panel for these options lives in Site Control, skip to the bottom of this section):

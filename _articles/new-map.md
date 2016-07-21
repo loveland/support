@@ -2,6 +2,7 @@
 title: Create a New Map
 category: Getting Started
 weight: 3
+intro: How to set up a new Site Control map
 ---
 
 When you log into your Site Control account, you should see the name of your group at the top of the page, and any previous map’s you’ve made listed below.

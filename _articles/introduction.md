@@ -2,6 +2,7 @@
 title: Introduction to Site Control
 category: Getting Started
 weight: 1
+intro: Site Control is your personal platform for working with property information
 ---
 
 Site Control is your personal platform for working with property information. With Site Control, you can import property data, build custom property surveys, conduct your surveys in the field with your mobile device, and map your survey results as they come streaming into your account in real-time. Site Control maps are easy to style, share, and embed, so you can create beautiful interactive web maps without writing a single line of code. User-friendly tools like our data list view and our query builder help make complicated information digestible, so you can make well-informed planning and land use decisions while spending less time wrestling with parcel data.
