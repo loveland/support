@@ -21,7 +21,7 @@ layout: default
       {% for article in articles %}
         <div class="article">
           <h3>
-              <a class="post-link" href="{{ article.url | prepend: article.baseurl }}">{{ article.title }}</a>
+              <a class="post-link" href="{{ site.baseurl }}{{ article.url | prepend: article.baseurl }}">{{ article.title }}</a>
           </h3>
           <p>{{ article.intro }}</p>
         </div>
