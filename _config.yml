@@ -35,7 +35,6 @@ markdown: kramdown
 # Prose settings
 prose:
   media: "img"
-  rooturl: "_articles"
   ignore: ["_fonts", ".gitignore"]
   metadata:
     _articles:
