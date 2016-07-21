@@ -46,7 +46,7 @@ prose:
           label: "Weight"
           element: "number"
           help: "Number representing how 'heavy' the article is. Heavier articles sink further down the list"
-      - name: "categories"
+      - name: "category"
         field:
           label: "Categories"
           element: "select"
