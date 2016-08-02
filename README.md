@@ -1,11 +1,18 @@
-Loveland Support Site
+# Loveland Support Site
 
 # Writing content
 
-## The basics
+## Using the Prose editor
 
-Articles go in the `_articles` folder. To create a new article, copy an existing
+Browse to https://prose.io, log in, and browse to this project.
+
+Then, browse to the `_articles` folder and either select the article you want to
+edit, or create a new file. To create a new article, copy an existing
 one as a template and save it with a short filename (this will become the URL).
+
+You can edit with markdown as well as drag and drop in files. You edit the
+metadata by clicking the icon in the right-hand side of the screen. When done,
+you commit your changes using the save button.
 
 There are three important pieces of metadata:
 
@@ -17,16 +24,6 @@ of the article. Articles with larger weights "sink" to the bottom of lists.
 **Category**
 Controls which section of the site
 
-## Using Prose
-
-Browse to https://prose.io, log in, and browse to this project.
-
-Then, browse to the `_articles` folder and either select the article you want to
-edit, or create a new file.
-
-You can edit with markdown as well as drag and drop in files. You edit the
-metadata by clicking the icon in the right-hand side of the screen. When done,
-you commit your changes using the save button.
 
 # Developing
 
