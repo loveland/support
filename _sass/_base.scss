@@ -152,14 +152,20 @@ header.main {
   background-size: cover;
   padding-top: 225px;
   margin-bottom: 50px;
+  position: relative;
+
+  .toolbar {
+    background: $ll;
+    color: #fff;
+    padding: 6px 0;
+    font-size: 24px;
+    font-family: 'MuseoSlab-900';
+    overflow: auto;
+  }
 
   .site-title {
-    font-family: 'MuseoSlab-900';
     display: inline-block;
-    background: #664a64;
     color: #fff;
-    padding: 6px 12px;
-    font-size: 24px;
   }
 }
 
@@ -214,8 +220,6 @@ header.main {
   }
 }
 
-/* Article page */
-
 .sidenav {
   h2 {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
@@ -235,6 +239,57 @@ header.main {
 
   .active ul {
     display: block;
+  }
+
+  .searchbar {
+    input {
+      padding: 3px 12px;
+      border: 0px none;
+      border: 1px solid $grey-color-light;
+      border-radius: 10px;
+      display: inline-block;
+      width: 90%;
+      margin-bottom: 1em;
+    }
+
+    #search::-webkit-input-placeholder {
+      color: $text-color;
+      font-weight: 700;
+    }
+    #search::placeholder {
+      color: $text-color;
+      font-weight: 700;
+    }
+    #search:-moz-placeholder {
+      color: $text-color;
+      font-weight: 700;
+    }
+    #search::-moz-placeholder {
+      color: $text-color;
+      font-weight: 700;
+    }
+    #search:-ms-input-placeholder {
+      color: $text-color;
+      font-weight: 700;
+    }
+
+    .results {
+      display: none;
+      margin-bottom: 30px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid $grey-color-light;
+      width: 90%;
+
+      h2 {
+        margin-bottom: 0;
+      }
+
+      p {
+        line-height: 1.1;
+        margin-bottom: 1.5em;
+      }
+
+    }
   }
 }
 

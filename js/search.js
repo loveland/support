@@ -1,9 +1,9 @@
+---
+---
 /*globals lunr: true */
 
 $(function() {
-  console.log("Setting up search", $);
-
-
+  var posts;
   var index = lunr(function () {
     this.field('id');
     this.field('title', { boost: 25 });
@@ -11,19 +11,53 @@ $(function() {
     this.field('content', { boost: 10 });
   });
 
-  console.log("Created index");
-  var fetch = $.getJSON('index.json');
+  function getPost(id) {
+    for (var i = 0; i < posts.length; i++) {
+      if (posts[i].id === id) {
+        return posts[i];
+      }
+    }
+  };
+
+  function search() {
+    var val = $(this).val();
+    var results = index.search(val);
+        console.log("Got results", results);
+
+    $('.results').empty().show();
+    results.forEach(function(result) {
+      if (result.score < 0.005) {
+        return;
+      }
+      var post = getPost(result.ref);
+      console.log("POst?", post);
+      $('.results')
+            .append('<a href="{{site.baseurl}}' + post.id + '" class="result"><h2>' + post.title + '</h2><p>' + post.intro + '</p></a>');
+    });
+
+    if (results.length === 0 &&val.length > 2) {
+      $('.results').append('<h2>No results found for ' + val + '</h2>');
+    }
+
+
+    if (results.length === 0 &&val.length <= 2) {
+      $('.results').hide();
+    }
+  }
+
+
+  var fetch = $.getJSON('{{ "/index.json" | prepend: site.baseurl }}');
 
   fetch.fail(function(error) {
     console.log("Error getting index", error);
   });
 
   fetch.done(function(data) {
-    console.log("Got post data", data);
-    data.forEach(function(post) {
+    posts = data;
+    posts.forEach(function(post) {
       index.add(post);
     });
-    console.log("Got results", index.search('share'));
 
+    $('#search').keyup(search)
   });
 });

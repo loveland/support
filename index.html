@@ -1,32 +1,38 @@
 ---
 layout: default
 ---
-<div class="front col-md-12">
-  <div class="intro">
-    <div class="in">
-      <h1>How can we help?</h1>
-<!--       <p>Something about how we want to help.</p>
- -->    </div>
+<div class="front">
+  <div class="col-md-12">
+    <div class="intro">
+      <div class="in">
+        <h1>How can we help?</h1>
+        <!-- <p>Something about how we want to help.</p> -->
+      </div>
+    </div>
   </div>
 
-{% for category in site.category-list %}
-  <section class="category row">
-    <div class="col-sm-3">
-      <h2>{{ category }}</h2>
+  <div class="col-sm-3">
+    <div class="sidenav">
+      {% include search.html %}
     </div>
+  </div>
 
-    <div class="col-sm-9 col-md-7">
-      {% assign articles = site.articles | where: 'category', category %}
-      {% assign articles = articles | sort: 'weight' %}
-      {% for article in articles %}
-        <div class="article">
-          <h3>
-              <a class="post-link" href="{{ site.baseurl }}{{ article.url | prepend: article.baseurl }}">{{ article.title }}</a>
-          </h3>
-          <p>{{ article.intro }}</p>
-        </div>
-      {% endfor %}
-    </div>
-  </section>
-{% endfor %}
+  <div class="col-sm-9 col-md-7">
+    {% for category in site.category-list %}
+      <section class="category row">
+        <h2>{{ category }}</h2>
+
+        {% assign articles = site.articles | where: 'category', category %}
+        {% assign articles = articles | sort: 'weight' %}
+        {% for article in articles %}
+          <div class="article">
+            <h3>
+                <a class="post-link" href="{{ site.baseurl }}{{ article.url | prepend: article.baseurl }}">{{ article.title }}</a>
+            </h3>
+            <p>{{ article.intro }}</p>
+          </div>
+        {% endfor %}
+      </section>
+    {% endfor %}
+  </div>
 </div>

@@ -4,6 +4,8 @@ layout: default
 
 <div class="col-sm-3">
   <div class="sidenav">
+    {% include search.html %}
+
     {% for category in site.category-list %}
       <div class="category {% if page.category == category %}active{% endif %}">
         <h2>{{category}}</h2>
