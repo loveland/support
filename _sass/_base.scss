@@ -154,18 +154,14 @@ header.main {
   margin-bottom: 50px;
   position: relative;
 
-  .toolbar {
-    background: $ll;
-    color: #fff;
-    padding: 6px 0;
-    font-size: 24px;
-    font-family: 'MuseoSlab-900';
-    overflow: auto;
-  }
-
   .site-title {
     display: inline-block;
     color: #fff;
+    background: $ll;
+    color: #fff;
+    padding: 6px 12px;
+    font-size: 24px;
+    font-family: 'MuseoSlab-900';
   }
 }
 
