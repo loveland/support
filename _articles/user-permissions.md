@@ -1,7 +1,7 @@
 ---
 weight: 1
 category: Your Account
-published: false
+published: true
 intro: You can customize the permissions levels of people you invite to your account
 ---
 If you have a Site Control Group Account, you can customize the permissions levels of people you invite to your Site Control account. Here are the definitions of the various permissions levels:
@@ -22,4 +22,3 @@ If you'd like to pass the payment reins to someone else in your account, you can
 
 The animation below walks through changing a user's permission level: 
 ![wkKeDPhagv.gif]({{site.baseurl}}/img/wkKeDPhagv.gif)
-
