@@ -1,7 +1,8 @@
 ---
-weight: 0
-category: Getting Started
+weight: 1
+category: Surveying
 published: false
+intro: Where to keep track of the data activity in your account in real time
 ---
 **About the Feed**
 
@@ -14,5 +15,3 @@ You can click any address in the Feed to see details of that property or survey.
 It may look like nothing is happening in the gif below, but keep an eye out and you'll see a couple surveys pop up there, showing you what it's like to see surveys coming through in real time :-)
 
 ![x8GZa1kYaA.gif]({{site.baseurl}}/img/x8GZa1kYaA.gif)
-
-
