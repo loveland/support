@@ -1,6 +1,6 @@
 ---
 weight: 1
-category: Managing Data
+category: Adding Data
 published: true
 intro: How to remove an imported data source you no longer need or want
 ---
