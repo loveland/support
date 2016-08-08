@@ -2,7 +2,7 @@
 weight: 1
 category: Surveying
 published: true
-intro: Where to keep track of the data activity in your account in real time
+intro: Where to keep track of your data activity in real time
 ---
 **About the Feed**
 
