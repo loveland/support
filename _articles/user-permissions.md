@@ -2,7 +2,7 @@
 weight: 1
 category: Your Account
 published: true
-intro: You can customize the permissions levels of people you invite to your account
+intro: You can customize the permissions levels of people invited to your account
 ---
 If you have a Site Control Group Account, you can customize the permissions levels of people you invite to your Site Control account. Here are the definitions of the various permissions levels:
 
