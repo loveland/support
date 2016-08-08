@@ -1,5 +1,5 @@
 ---
-title: Privacy-setting.md
+title: Privacy-settings.md
 category: Maps
 weight: 3
 intro: Your Site Control maps are private by default
