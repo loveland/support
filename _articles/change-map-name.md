@@ -1,7 +1,7 @@
 ---
 weight: 1
 category: Maps
-published: false
+published: true
 intro: You can change the name of your map at anytime
 ---
 
