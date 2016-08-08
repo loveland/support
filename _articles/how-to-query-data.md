@@ -1,6 +1,6 @@
 ---
 weight: 1
-category: Getting Started
+category: Managing Data
 published: true
 intro: How to use the Query tool to better understand your data
 ---
