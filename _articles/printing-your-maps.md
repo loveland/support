@@ -1,6 +1,6 @@
 ---
-weight: 0
-category: Getting Started
+weight: 1
+category: Maps
 published: false
 ---
 At the moment, there is no direct way to print a map from your Site Control account. The best way to capture a static picture of your map is to take a screenshot on your computer.
