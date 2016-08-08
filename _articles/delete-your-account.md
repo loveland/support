@@ -1,7 +1,7 @@
 ---
 weight: 1
 category: Your Account
-published: false
+published: true
 intro: How to delete you account
 ---
 We will be sad to see you go, but if you’ve completed your project then it might be time to delete your account.
