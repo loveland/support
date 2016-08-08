@@ -1,7 +1,7 @@
 ---
 weight: 1
 category: Managing Data
-published: false
+published: true
 intro: 'How to view data in the List '
 ---
 **About The List**
