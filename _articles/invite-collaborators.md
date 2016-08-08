@@ -1,0 +1,12 @@
+---
+weight: 1
+category: Your Account
+published: false
+intro: How to invite collaborators to your map
+---
+If you signed up for a Group Account, you can have up to 10 people in your Site Control account at once.
+
+For Group Accounts, just follow the process below to invite additional people to your account. If you need help setting permissions levels for new members, you can read about that in [User Permissions](user permissions).
+
+![aH73B4lXnp.gif]({{site.baseurl}}/img/aH73B4lXnp.gif)
+
