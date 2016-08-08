@@ -1,7 +1,7 @@
 ---
 weight: 1
 category: Maps
-published: false
+published: true
 intro: Use the draw tool to draw your own focus areas
 ---
 **About the Draw Tool and Focus Areas:**
@@ -21,4 +21,3 @@ You can copy the URL of your focus area to share it with other people in your gr
 Below is an animation showing how to use the draw tool to define an area, save it as a Focus Area:
 
 ![KuDca869wm.gif]({{site.baseurl}}/img/KuDca869wm.gif)
-
