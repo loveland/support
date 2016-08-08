@@ -1,7 +1,7 @@
 ---
 weight: 3
 category: Getting Started
-published: false
+published: true
 intro: How to add data to your map with a CSV
 ---
 With Site Control you can import data from CSVs and Excel spreadsheets to visualize, query, and work with the data in a parcel map setting.
