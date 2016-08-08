@@ -1,7 +1,8 @@
 ---
-weight: 0
+weight: 1
 category: Getting Started
-published: false
+published: true
+intro: How to use the Query tool to better understand your data
 ---
 **About Query**
 
@@ -20,5 +21,3 @@ Below are a series of examples of searches run using Query.
 **Search Across Multiple Datasets:**
 
 ![Z1Oy6J9z1s.gif]({{site.baseurl}}/img/Z1Oy6J9z1s.gif)
-
-
