@@ -2,7 +2,7 @@
 weight: 1
 category: Maps
 published: true
-intro: You can change the name of your map at anytime
+intro: You can change the name of your map at any time
 ---
 
 You can change the name of a Site Control map any time you want.
