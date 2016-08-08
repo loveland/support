@@ -1,7 +1,7 @@
 ---
 weight: 1
 category: Managing Data
-published: false
+published: true
 intro: How to export you data in a variety of formats
 ---
 **About Data Exporting**
@@ -15,6 +15,3 @@ Click "Manage Map" and then "Share & Export" in order to see data export options
 **Exporting Data:**
 
 ![DIwROZaOmE.gif]({{site.baseurl}}/img/DIwROZaOmE.gif)
-
-
-
