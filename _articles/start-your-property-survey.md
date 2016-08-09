@@ -1,7 +1,7 @@
 ---
 weight: 2
 category: Surveying
-published: false
+published: true
 intro: How to begin your property survey
 ---
 **Introduction**  
@@ -45,10 +45,3 @@ When you've reached the end of your survey questions, you'll see two buttons: "S
 **Step 9:**  
 Back in your Site Control account, you can navigate in the map to the region you were surveying and click any highlighted parcel (denoting properties you've surveyed) to see the imagery and data. Or, you can click the "Feed" icon to see a stream of all the information you've collected in the map.
 ![4UqWzHGo2h.gif]({{site.baseurl}}/img/4UqWzHGo2h.gif)
-
-
-
-
-
-
-
