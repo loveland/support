@@ -12,7 +12,7 @@ For example:
 
 Say I have a parcel with the address 555 Fake Street that has two data fields:
 
-Condition: Good 
+Condition: Good  
 Occupancy: Vacant
 
 If I go to my Styles area and set Condition = Good to color parcels in Green, and then set another rule to color Occupancy = Vacant parcels in Red, then my 555 Fake Street parcel will ONLY color in Green -- it matches both rules, but the Condition rule is set first, so that's the color that will be applied.
