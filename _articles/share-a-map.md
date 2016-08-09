@@ -1,5 +1,5 @@
 ---
-title: Sharing your Maps
+title: Share Your Maps
 category: Maps
 weight: 1
 intro: How to share your maps with your team or the whole world
