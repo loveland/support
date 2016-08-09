@@ -7,7 +7,9 @@ intro: How to connect an external data source to your map
 Site Control supports several open data sources and is working to support ever more. Here is a list of platforms you can currently connect to Site Control maps:
 
 [ESRI Open Data Portals](ESRI open data portal) 
+
 [Socrata Open Data Portals](Socrata open data portal) 
+
 [Enigma](Enigma)
 
 **NOTE:** Currently, we require data sources to contain a column with Parcel IDs so we can match data to properties we have online. More data-matching methods will be coming online soon.
