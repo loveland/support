@@ -20,5 +20,5 @@ If you'd like to pass the payment reins to someone else in your account, you can
 
 **Note:** You can change permissions settings at any time.
 
-The animation below walks through changing a user's permission level: 
+**The animation below walks through changing a user's permission level:** 
 ![wkKeDPhagv.gif]({{site.baseurl}}/img/wkKeDPhagv.gif)
