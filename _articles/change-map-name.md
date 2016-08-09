@@ -9,7 +9,7 @@ You can change the name of a Site Control map any time you want.
 
 Below is an animation showing the procedure to change a Site Control map:
 
-**Change Map Name:**
+Change Map Name:  
 ![v1GtwRibhg (1).gif]({{site.baseurl}}/img/v1GtwRibhg (1).gif)
 
 You can also write a map description in the box below the map's title. The map description will appear below the map name. Map descriptions can be useful when you want to do something like embed your map in a web page -- your description will be a part of the embed, giving people an introduction to your map.
