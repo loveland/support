@@ -3,6 +3,7 @@ weight: 1
 category: Managing Data
 published: true
 intro: How to use Styles to color code parcels
+title: Style Data on Your Map
 ---
 If you want to create a parcel map color coded based on data in your account (either survey data or imported data) you can do so by creating Styles rules. Styles rules will apply to your entire map. You can change your Styles at any time.
 
