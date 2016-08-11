@@ -3,6 +3,7 @@ weight: 1
 category: Managing Data
 published: true
 intro: How to export you data in a variety of formats
+title: Export Data
 ---
 **About Data Exporting**  
 Site Control allows you to export data from your account in a number of standard formats. We're always adding new ways to publish and extract data from your account, so keep an eye out for new options.
