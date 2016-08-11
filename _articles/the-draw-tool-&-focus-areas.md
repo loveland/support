@@ -3,6 +3,7 @@ weight: 1
 category: Maps
 published: true
 intro: Use the draw tool to draw your own focus areas
+title: The Draw Tool & Focus Areas
 ---
 **About the Draw Tool and Focus Areas:**  
 The draw tool lets you draw your own "Focus Areas" and save them as shapes that you can return to later. When you draw a Focus Area with the draw tool, you will limit the data you see in the Overview panel, the Feed, and the List to only the data in your drawn area. If you run a Query, you will only search data from within the Focus Area's boundaries.
