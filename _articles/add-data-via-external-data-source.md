@@ -3,6 +3,7 @@ weight: 3
 category: Adding Data
 published: true
 intro: How to connect an external data source to your map
+title: Add Data via External Data Source
 ---
 Site Control supports several open data sources and is working to support ever more. Here is a list of platforms you can currently connect to Site Control maps:
 
