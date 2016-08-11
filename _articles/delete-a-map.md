@@ -3,6 +3,7 @@ weight: 1
 category: Maps
 published: true
 intro: How to delete a map you no longer want
+title: Delete a Map
 ---
 Accounts for Individuals can create up to 10 maps, Group Accounts may create up to 30 (get in touch at team@makeloveland.com if you need more). If things start to get crowded and you want to delete a map, you have two options.
 
