@@ -3,6 +3,7 @@ weight: 1
 category: Surveying
 published: true
 intro: Where to keep track of your data activity in real time
+title: The Live Feed
 ---
 **About the Feed**  
 The Feed in a Site Control map keeps track of all the data activity in your account in real time. When you import data or survey properties, all the information will populate in your Feed, live.
