@@ -3,6 +3,7 @@ weight: 1
 category: Managing Data
 published: true
 intro: 'How to view data in the List '
+title: View Data in the List
 ---
 **About The List**  
 The data you add to a Site Control map, either through surveying properties or importing datasets, is all organized in a spreadsheet under the "List" option in the navigational bar. Inside the List, data is matched to parcel IDs.
