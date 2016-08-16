@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 2
 category: Adding Data
 published: true
 intro: How to remove an imported data source you no longer need or want
