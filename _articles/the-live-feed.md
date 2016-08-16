@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 2
 category: Surveying
 published: true
 intro: Where to keep track of your data activity in real time
