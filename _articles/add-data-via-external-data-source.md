@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 1
 category: Adding Data
 published: true
 intro: How to connect an external data source to your map
