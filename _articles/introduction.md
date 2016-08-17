@@ -1,5 +1,5 @@
 ---
-title: Introduction to Site Control
+title: Introduction to Site Control Pro
 category: Getting Started
 weight: 1
 intro: Site Control is your personal platform for working with property information
