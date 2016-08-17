@@ -5,6 +5,8 @@ published: true
 intro: How to export you data in a variety of formats
 title: Export Data
 ---
+_This feature is only available with a Pro or Enterprise Site Control account. [Click here to upgrade your account](click here to upgrade your account)._ 
+
 **About Data Exporting**  
 Site Control allows you to export data from your account in a number of standard formats. We're always adding new ways to publish and extract data from your account, so keep an eye out for new options.
 
