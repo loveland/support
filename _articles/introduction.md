@@ -18,10 +18,10 @@ If you are working with others, be sure to [invite your team to collaborate](Inv
 
 **Need some inspiration?**
 
-Check out what other people have accomplished with Site Control at [makeloveland.com/reports](http://makeloveland.com/reports). Projects include:
-* [Creating an inventory](http://makeloveland.com/reports/cleveland) of every single property in the city of Cleveland
-* Collecting a years worth of data on [every single structure fire](http://makeloveland.com/reports/fire) in Detroit
-* [Mapping lead contamination](http://makeloveland.com/reports/flint) in water samples in Flint, MI
+Check out what other people have accomplished with Site Control at [makeloveland.com/reports](http://makeloveland.com/reports). Projects include:  
+* [Creating an inventory](http://makeloveland.com/reports/cleveland) of every single property in the city of Cleveland  
+* Collecting a years worth of data on [every single structure fire](http://makeloveland.com/reports/fire) in Detroit  
+* [Mapping lead contamination](http://makeloveland.com/reports/flint) in water samples in Flint, MI  
 * [Evaluating tornado damage in Portland, MI](Evaluating tornado damage in Portland, MI)
 
 **If you want to make custom property maps and surveys but you don't have a Site Control account yet, [sign up today](http://sitecontrol.us)!**
