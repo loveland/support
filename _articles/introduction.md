@@ -10,9 +10,9 @@ Site Control Pro is your personal platform for working with property information
 
 **Are you ready to get started?**
 
-* To get started with Site Control, the first you'll want to do is [create a map](Create A New Map).
-* Then, you might want to [import data](Importing Data via CSV) or [create a property survey](Start Your Property Survey).
-* Once you add data to your map, you can [query your data](Query) and [style your map](Using Styles to Color Code Parcels).
+* To get started with Site Control, the first you'll want to do is [create a map](https://loveland.github.io/support/articles/new-map/).
+* Then, you might want to [import data](Importing Data via CSV) or [create a property survey](https://loveland.github.io/support/articles/start-your-property-survey/).
+* Once you add data to your map, you can [query your data](https://loveland.github.io/support/articles/how-to-query-data/) and [style your map](https://loveland.github.io/support/articles/style-data-on-your-map/).
 
 If you are working with others, be sure to [invite your team to collaborate](Invite Collaborators) in Site Control.
 
