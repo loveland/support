@@ -5,7 +5,9 @@ published: true
 intro: You can customize the permissions levels of people invited to your account
 title: User Permissions
 ---
-If you have a Site Control Group Account, you can customize the permissions levels of people you invite to your Site Control account. Here are the definitions of the various permissions levels:
+This feature is unavailable to Starter accounts.
+
+If you have a Site Control Pro Account, you can customize the permissions levels of people you invite to your Site Control account. Here are the definitions of the various permissions levels:
 
 **Manager:**
 Full permission to edit data, create and delete maps, survey properties. Full access to the account, except for billing. You can have multiple managers.
