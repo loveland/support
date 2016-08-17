@@ -8,7 +8,7 @@ title: Change Map Name
 
 You can change the name of a Site Control map any time you want.
 
-Below is an animation showing the procedure to change a Site Control map:
+Below is an animation showing the procedure to change a Site Control map name:
 
 ![v1GtwRibhg (1).gif]({{site.baseurl}}/img/v1GtwRibhg (1).gif)
 
