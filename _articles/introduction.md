@@ -24,4 +24,4 @@ Check out what other people have accomplished with Site Control at [makeloveland
 * [Mapping lead contamination](http://makeloveland.com/reports/flint) in water samples in Flint, MI  
 * [Evaluating tornado damage](Evaluating tornado damage in Portland, MI) in Portland, MI
 
-**If you want to make custom property maps and surveys but you don't have a Site Control account yet, [sign up today](http://sitecontrol.us)!**
+**If you want to make custom property maps and surveys but you don't have a Site Control account yet, [sign up today](sign up today)!**
