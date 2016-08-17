@@ -6,13 +6,15 @@ intro: How to begin your property survey
 title: Start Your Property Survey
 ---
 **Introduction**  
-Site Control users can create custom surveys and go into their cities and neighborhoods equipped with the LOVELAND App to take pictures and answer questions about property. The data and photography collected is attached to the parcels surveyed and saved privately in your Site Control account where you can use it to build maps and make decisions supported by the latest information collected on the ground.
+Pro and Enterprise Site Control users can create custom surveys and go into their cities and neighborhoods equipped with the LOVELAND App to take pictures and answer questions about property. Site Control Starter users will not be able to create a custom survey, but they can survey with our basic, built-in survey questions. The data and photography collected is attached to the parcels surveyed and saved privately in your Site Control account where you can use it to build maps and make decisions supported by the latest information collected on the ground.
 
-If you've already signed up for Site Control, here's how to get started with your very own property survey:
+Here's how to get started with your very own property survey:
 
 **Step 1:**   
 Navigate to the survey creation page in your Site Control account and start building your survey questions:
 ![vqpHM8uDCe.gif]({{site.baseurl}}/img/vqpHM8uDCe.gif)
+
+If you have not upgraded your Site Control account, you can navigate to the "Survey" tab and click on "OK, add this survey to my map" to begin surveying. Please Skip to Step 3.
 
 
 **Step 2:**  
