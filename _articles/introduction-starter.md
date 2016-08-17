@@ -1,5 +1,5 @@
 ---
-weight: 0
+weight: 2
 category: Getting Started
 published: true
 title: Introduction to Site Control Starter
@@ -21,4 +21,3 @@ Check out what other people have accomplished with Site Control at [makeloveland
 * Collecting a years worth of data on [every single structure fire](http://makeloveland.com/reports/fire) in Detroit  
 * [Mapping lead contamination](http://makeloveland.com/reports/flint) in water samples in Flint, MI  
 * [Evaluating tornado damage](Evaluating tornado damage in Portland, MI) in Portland, MI
-
