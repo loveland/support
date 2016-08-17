@@ -1,7 +1,7 @@
 ---
 weight: 0
 category: Getting Started
-published: false
+published: true
 title: Introduction to Site Control Starter
 intro: Site Control Starter lets you explore our property mapping software for free
 ---
