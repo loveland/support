@@ -3,7 +3,7 @@ title: Create a New Map
 category: Getting Started
 weight: 3
 intro: How to set up a new Site Control map
-published: true
+published: false
 ---
 
 There are two ways to create a new map:
