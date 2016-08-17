@@ -11,10 +11,9 @@ Site Control Starter is your personal platform for working with property informa
 
 **Are you ready to get started?**
 
-* To get started with Site Control, the first you'll want to do is [create a map](https://loveland.github.io/support/articles/new-map/).
-* Then, you might want to [import data](https://loveland.github.io/support/articles/add-data-via-csv/) or [start a property survey](https://loveland.github.io/support/articles/start-your-property-survey/).
-* Once you add data to your map, you can [query your data](https://loveland.github.io/support/articles/how-to-query-data/) and [style your map](https://loveland.github.io/support/articles/style-data-on-your-map/).
-
+* To get started with Site Control, the first you'll want to do is [create a map](create a map).
+* Then, you might want to [import data](import data) or [start a property survey](start a property survey).
+* Once you add data to your map, you can [query your data](query your data) and [style your map](style your map).
 
 **Need some inspiration?**
 
