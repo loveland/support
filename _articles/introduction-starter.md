@@ -3,7 +3,9 @@ weight: 2
 category: Getting Started
 published: true
 title: Introduction to Site Control Starter
-intro: Site Control Starter lets you explore our property mapping software for free
+intro: >-
+  Site Control Starter lets you create a map and explore our property mapping
+  software for free
 ---
 Site Control Starter is your personal platform for working with property information. With Site Control, you can import property data, conduct a survey in the field with your mobile device, and map your survey results as they come streaming into your account in real-time. Site Control maps are easy to style so you can create beautiful interactive web maps without writing a single line of code. User-friendly tools like our data list view and our query builder help make complicated information digestible, so you can make well-informed planning and land use decisions while spending less time wrestling with parcel data.
 
