@@ -6,9 +6,9 @@ intro: How to set up a new Site Control map
 published: true
 ---
 
-There are two ways to create a new map:
-1. If you have a paid subcription to Site Control, scroll down to see how you can create a map within your Site Control account. 
-2. If you have a free LOVELAND account, you will find instructions for how to create your map below.
+There are two ways to create a new map:  
+1. If you have a paid subcription to Site Control, scroll down to see how you can create a map within your Site Control account.  
+2. If you have a free LOVELAND account, you will find instructions for how to create your map below.  
 
 **LOVELAND Account:**  
 Your LOVELAND account comes with Site Control Starter, which allows you to create one map. 
