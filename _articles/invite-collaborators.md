@@ -5,7 +5,7 @@ published: true
 intro: How to invite collaborators to your map
 title: Invite Collaborators
 ---
-_This feature is only available with a Pro or Enterprise Site Control account. [Click here to upgrade your account](https://makeloveland.com/profile)._
+_This feature is only available with a Pro or Enterprise Site Control account. [Click here to upgrade your account](https://sitecontrol.us/plans#p=level1)._
 
 If you signed up for a Pro Account, you can have up to 25 people in your Site Control account at once.
 
