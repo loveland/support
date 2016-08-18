@@ -5,7 +5,7 @@ published: true
 intro: How to delete a map you no longer want
 title: Delete a Map
 ---
-_This feature is only available with a Pro or Enterprise Site Control account. [Click here to upgrade your account](https://makeloveland.com/profile)._
+_This feature is only available with a Pro or Enterprise Site Control account. [Click here to upgrade your account](https://sitecontrol.us/plans#p=level1)._
 
 If things start to get crowded and you want to delete a map, you have two options.
 
