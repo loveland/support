@@ -5,7 +5,7 @@ published: true
 intro: You can customize the permissions levels of people invited to your account
 title: User Permissions
 ---
-_This feature is only available with a Pro or Enterprise Site Control account. [Click here to upgrade your account](https://makeloveland.com/profile)._
+_This feature is only available with a Pro or Enterprise Site Control account. [Click here to upgrade your account](https://sitecontrol.us/plans#p=level1)._
 
 If you have a Site Control Pro Account, you can customize the permissions levels of people you invite to your Site Control account. Here are the definitions of the various permissions levels:
 
