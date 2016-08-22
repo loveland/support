@@ -2,7 +2,7 @@
 weight: 1
 category: Your Account
 published: true
-intro: You can customize the permissions levels of people invited to your account
+intro: You can customize the permission levels of people invited to your account
 title: User Permissions
 ---
 _This feature is only available with a Pro or Enterprise Site Control account. [Click here to upgrade your account](https://sitecontrol.us/plans#p=level1)._
