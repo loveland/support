@@ -7,7 +7,7 @@ intro: >-
   Site Control Starter lets you create a map and explore our property mapping
   software for free
 ---
-###Welcome to Site Control!
+## **Welcome to Site Control!**
 
 **Overview**
 
