@@ -3,7 +3,7 @@ weight: 2
 category: Surveying
 published: true
 intro: How to begin your property survey with Site Control Pro
-title: Start Your Property Survey
+title: Start Your Property Survey with Site Control Pro
 Title: Start Your Property Survey with Site Control Pro
 ---
 **Introduction**  
