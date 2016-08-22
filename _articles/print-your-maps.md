@@ -9,4 +9,4 @@ At the moment, there is no direct way to print a map from your Site Control acco
 
 We are working on a new feature that will make printing maps from Site Control a breeze. Stay tuned for updates!
 
-If you are simply looking for a way to share your map with others, you can [check out this article](Share a Map) to learn how.
+If you are simply looking for a way to share your map with others, you can [check out this article](https://sitecontrol.us/support/Share-a-Map) to learn how.
