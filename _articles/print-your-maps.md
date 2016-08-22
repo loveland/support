@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 5
 category: Maps
 published: true
 intro: Take a screenshot of your map in order to print it
