@@ -1,7 +1,7 @@
 ---
 title: Introduction to Site Control Pro
 category: Getting Started
-weight: 1
+weight: 2
 intro: Site Control is your personal platform for working with property information
 published: true
 ---
