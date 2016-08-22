@@ -2,9 +2,7 @@
 weight: 4
 category: Getting Started
 published: true
-intro: >-
-  You can now easily save any property and quickly access it from your profile
-  page
+intro: You can easily save any property and quickly access it from your profile page
 title: Bookmark a Property
 ---
 **Introducing: Bookmarks!**
