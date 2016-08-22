@@ -23,4 +23,5 @@ A legend at the bottom of the screen will explain your style rules, pulling info
 If you want to search your data in a way that will show all properties that match BOTH Condition = Good AND Occupancy = Vacant, then skip to Query to learn about searching multiple criteria in a Site Control map.
 
 Below is an animation showing an example of setting Styles rules:
+
 ![JERp7SG1ub.gif]({{site.baseurl}}/img/JERp7SG1ub.gif)
