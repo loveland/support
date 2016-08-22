@@ -13,5 +13,6 @@ As with other elements of Site Control, the List contains data based on the boun
 **Exporting Data from the List**  
 You can export data from the List by clicking the "Download CSV" button. This, too, will extract data based on the boundaries you are currently viewing. So, if you click Download CSV while looking at a whole city, you'll download data for the entire city. If you click Download CSV from within in a neighborhood, you'll get data just for that neighborhood.
 
-**Below is an animation showing how to navigate the list and export data:**
+Below is an animation showing how to navigate the list and export data:
+
 ![a7GwOREF4x.gif]({{site.baseurl}}/img/a7GwOREF4x.gif)
