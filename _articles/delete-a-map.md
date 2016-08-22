@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 6
 category: Maps
 published: true
 intro: How to delete a map you no longer want
