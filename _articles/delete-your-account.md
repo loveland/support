@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 5
 category: Your Account
 published: true
 intro: How to delete you account
