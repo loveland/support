@@ -16,5 +16,6 @@ Once you've drawn a Focus Area, you can give it a custom name and save it. Focus
 **Sharing Focus Areas:**  
 You can copy the URL of your focus area to share it with other people in your group. If your map is set to "Anyone with the Map's Link Can View It," then you can share your Focus Area's URL with anyone and they will have read-only access to the region.
 
-**Below is an animation showing how to use the draw tool to define an area, save it as a Focus Area:**
+Below is an animation showing how to use the draw tool to define an area, save it as a Focus Area:
+
 ![KuDca869wm.gif]({{site.baseurl}}/img/KuDca869wm.gif)
