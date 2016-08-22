@@ -10,6 +10,7 @@ title: Bookmark a Property
 You can now quickly and easily save properties with your LOVELAND or Site Control account.
 
 The animation below walks you through how to bookmark a property and view it in your profile:
+
 ![Bookmark a Property]({{site.baseurl}}/img/ojhCIm9A33.gif)
 
 Whether you are signed in with your LOVELAND or Site Control account, you need to click on "My Account" and then "My Profile" in order to view all of your bookmarked properties. You can view these properties by clicking "Bookmarks" in the upper righthand corner. Once here, click on "View My Bookmarks Map" to visualize all of you bookmarked properties in one place. You can also view this map by clicking on "Bookmarks" under "MY PERSONAL MAPS" on your profile page.
