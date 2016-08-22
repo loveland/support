@@ -5,8 +5,7 @@ weight: 2
 intro: Site Control is your personal platform for working with property information
 published: true
 ---
-
-###Welcome to Site Control!
+#**Welcome to Site Control!**#
 
 **Overview**
 
