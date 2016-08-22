@@ -1,6 +1,6 @@
 ---
-weight: 4
-category: Getting Started
+weight: 2
+category: Surveying
 published: true
 intro: How to begin your property survey with Site Control Starter
 title: Start Your Property Survey with Site Control Starter
