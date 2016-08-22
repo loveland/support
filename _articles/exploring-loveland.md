@@ -1,7 +1,7 @@
 ---
 title: Exploring LOVELAND
 category: Getting Started
-weight: 4
+weight: 5
 intro: Explore the universe of parcel data through your Site Control account
 published: true
 ---
