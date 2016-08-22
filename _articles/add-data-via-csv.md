@@ -21,7 +21,8 @@ Click "Finish"
 Click "See Results on Your Map"
 Standby for importing to complete (alert box in upper right of screen will show progress)
 
-**Below is an animation showing how to connect import a CSV of data:**  
+Below is an animation showing how to connect import a CSV of data:
+
 ![qp7IabrGKl.gif]({{site.baseurl}}/img/qp7IabrGKl.gif)
 
 
