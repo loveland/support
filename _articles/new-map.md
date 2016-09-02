@@ -25,7 +25,7 @@ Once you specify a name and location for your map, you have several options:
 * Click “Import Data” to import your own data or to connect data from an open data portal.
 * Click “Browse Public Data” to explore Site Control datasets that have been made public by other users.
 
-![create a new map](http://g.recordit.co/NkX3lqNCnT.gif)
+![create new map]({{site.baseurl}}/img/687474703a2f2f672e7265636f726469742e636f2f4e6b58336c714e436e542e676966.gif)
 
 
 **Site Control Pro or Enterprise Account:**  
@@ -42,4 +42,6 @@ Once you specify a name and location for your map, you have several options:
 * Click “Import Data” to import your own data or to connect data from an open data portal.
 * Click “Browse Public Data” to explore Site Control datasets that have been made public by other users.
 
-![create a new map](http://g.recordit.co/NkX3lqNCnT.gif)
+![create new map]({{site.baseurl}}/img/687474703a2f2f672e7265636f726469742e636f2f4e6b58336c714e436e542e676966.gif)
+
+
