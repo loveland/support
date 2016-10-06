@@ -14,13 +14,14 @@ Here's how to get started with your very own property survey:
 **Step 1:**   
 Navigate to the survey creation page in your Site Control account and start building your survey questions:    
      
-![Survey](http://g.recordit.co/vqpHM8uDCe.gif)  
+![Create survey]({{site.baseurl}}/img/vqpHM8uDCe.gif)
 
 **Step 2:**   
 When you're finished setting up your survey, **be sure to click "Save Survey"**:   
 
-![Save Survey](http://g.recordit.co/BfekmmgcgP.gif)    
-    
+![Save survey]({{site.baseurl}}/img/BfekmmgcgP.gif)
+
+
 **Step 3:**   
 If you haven't already, now's the time to download the LOVELAND App. The LOVELAND App is available for iOS and Android devices:    
 * **[Download for iOS](https://itunes.apple.com/TR/app/id905821280)**
@@ -55,4 +56,4 @@ When you've reached the end of your survey questions, you'll see two buttons: "S
 **Step 9:**    
 Back in your Site Control account, you can navigate in the map to the region you were surveying and click any highlighted parcel (denoting properties you've surveyed) to see the imagery and data. Or, you can click the "Feed" icon to see a stream of all the information you've collected in the map.    
       
-![Feed](http://g.recordit.co/4UqWzHGo2h.gif)
+![Survey results feed]({{site.baseurl}}/img/4UqWzHGo2h.gif)
