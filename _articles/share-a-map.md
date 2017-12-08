@@ -36,4 +36,5 @@ Your embedded map will be "live" -- that is as you add data to it, people visiti
 
 **Here's how to navigate to your map's sharing options:**
 
-![Sharing Options](http://g.recordit.co/a9X1OIscWi.gif)
+![sharing.gif]({{site.baseurl}}/img/sharing.gif)
+![Sharing options]({{site.baseurl}}/img/sharing.gif)
