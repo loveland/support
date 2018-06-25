@@ -11,4 +11,6 @@ If you signed up for a Pro Account, you can have up to 25 people in your Site Co
 
 For Pro Accounts, just follow the process below to invite additional people to your account. If you need help setting permissions levels for new members, you can read about that in [User Permissions](https://loveland.github.io/support/articles/user-permissions/).
 
+To **uninvite** a collaborator, select "Remove from Group" from the User Permissions dropdown list.
+
 ![aH73B4lXnp.gif]({{site.baseurl}}/img/aH73B4lXnp.gif)
