@@ -14,8 +14,7 @@ edit, or create a new file.
   * To create a new article, copy an existing
   one as a template and save it with a short filename (this will become the URL).
 
-5. You can format text using the toolbar at the top, which 
-Markdow. To add images, you can drag and drop in files.
+5. You can format text using the toolbar at the top, which uses [Markdown formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). To add images, you can drag and drop in files.
 
 6. You edit the metadata by clicking the icon that looks like a table (several
 stacked lines) on the right-hand side of the screen.
