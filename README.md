@@ -2,7 +2,7 @@
 
 # Writing content using the Prose editor
 
-1. Browse to https://prose.io and log in
+1. Browse to https://prose.io and log in using your Github account
 
 2. Browse to http://prose.io/#loveland/support (the Loveland team, and the Support project)
 
