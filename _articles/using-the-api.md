@@ -1,7 +1,7 @@
 ---
 weight: 1
 category: Developer Notes
-published: false
+published: true
 Weight: 1
 Category: For Developers
 ---
