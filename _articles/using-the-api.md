@@ -8,9 +8,13 @@ intro: How developers can plug in to the Loveland parcel API
 Title: Using the API
 title: Using the API
 ---
+#### Basics
+
+Thanks for your interest in our Parcel API! This is new, so bear with us and please direct feedback, bugs and questions to **team@makeloveland.com**. To begin with, all requests will be to the `https://sitecontrol.us` domain, with the paths described below per-request.
+
 #### Authentication and tokens
 
-All requests to the API must include a `token` parameter. If you have a Pro or higher subscription, you can find this in the Account Settings in Site Control.
+All requests to the API must include a `token` parameter. If you have a Pro or higher subscription, you can find this in **Account Settings > Preferences** after logging into your Site Control account.
 
 #### Place and Parcel Paths
 
