@@ -19,10 +19,10 @@ At Loveland we use place *pathnames* to specify administrative boundaries and un
 *Parcel paths* are similar, and include an integer ID at the end. For example, `/us/mi/wayne/detroit/555`. These uniquely identify a parcel in our database in a simple, human-readable format.
 
 
-### Parcel search
+## Parcel search
 
 
-#### By parcel number
+### By parcel number
 
 `GET /api/v1/search.json?parcelnumb=<pin>&token=<token>`
 
@@ -31,7 +31,7 @@ At Loveland we use place *pathnames* to specify administrative boundaries and un
 * `context` (optional): To specify what county or municipality to search in, you can provide a path. See description above.
 
 
-#### By lat-long (reverse geocoding)
+### By lat-long (reverse geocoding)
 
 `GET /api/v1/search.json?lat=<y>&lon=<x>&token=<token>`
 
@@ -40,7 +40,7 @@ At Loveland we use place *pathnames* to specify administrative boundaries and un
 * `lon`: Longitude (x-coord), same.
 
 
-#### By address
+### By address
 
 `GET /api/v1/search.json?query=<address>&context=<path>&token=<token>`
 
@@ -49,7 +49,7 @@ At Loveland we use place *pathnames* to specify administrative boundaries and un
 * `context` (optional): See notes on `context` parameter above
 
 
-#### Parcel details from a known path
+### Parcel details from a known path
 
 `GET /api/v1/parcel.json?path=<path>&token=<token>`
 
@@ -60,7 +60,7 @@ At Loveland we use place *pathnames* to specify administrative boundaries and un
 A single GeoJSON Feature for the requested parcel (rather than an array of results).
 
 
-#### Response Format
+## Response Format
 
 All of these requests return a JSON response on success, an array of GeoJSON features representing the matched parcels. These include polygon geometries and `properties`. Here's an example response payload:
 
@@ -107,9 +107,9 @@ All of these requests return a JSON response on success, an array of GeoJSON fea
       ]
     }
     
-    **Notes on properties:**
-    * `headline`: a human-friendly display name for the parcel. If no address is available, it falls back to the parcel number.
-    * `path`: The parcel's unique identifier as described above in "Place & Parcel Paths"
-    * `fields`: Columns from the parcel table. These include some standard column names, plus additional columns varying by the particular county & data available.
-    * `field_labels`: Human-friendly labels for each key in `fields`.
-    * `context`: A bit of info about the city or county where this parcel is found, including a `path` one can use as `context` for further searches.
+**Notes on properties:**
+  * `headline`: a human-friendly display name for the parcel. If no address is available, it falls back to the parcel number.
+  * `path`: The parcel's unique identifier as described above in "Place & Parcel Paths"
+  * `fields`: Columns from the parcel table. These include some standard column names, plus additional columns varying by the particular county & data available.
+  * `field_labels`: Human-friendly labels for each key in `fields`.
+  * `context`: A bit of info about the city or county where this parcel is found, including a `path` one can use as `context` for further searches.
