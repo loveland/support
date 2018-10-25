@@ -4,6 +4,9 @@ category: Developer Notes
 published: true
 Weight: 1
 Category: For Developers
+intro: How developers can plug in to the Loveland parcel API
+Title: Using the API
+title: Using the API
 ---
 #### Authentication and tokens
 
