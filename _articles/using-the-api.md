@@ -10,7 +10,7 @@ title: Using the API
 ---
 #### Basics
 
-Thanks for your interest in our Parcel API! This is new, so bear with us and please direct feedback, bugs and questions to **team@makeloveland.com**. To begin with, all requests will be to the `https://sitecontrol.us` domain, with the paths described below per-request.
+Thanks for your interest in our Parcel API! This tool is still in beta, so please direct feedback, bugs and questions to **team@makeloveland.com**. To begin with, all requests will be to the `https://sitecontrol.us` domain, with the paths described below per-request.
 
 #### Authentication and tokens
 
@@ -53,16 +53,15 @@ At Loveland we use place *pathnames* to specify administrative boundaries and un
 * `context` (optional): See notes on `context` parameter above
 
 
-### Parcel details from a known path
+## Parcel details 
 
 `GET /api/v1/parcel.json?path=<path>&token=<token>`
 
 **Request parameters:**
-* `path`: The canonical path of the parcel in the Loveland system. For example, `/us/mi/wayne/detroit/555`.
+* `path`: The canonical path of the parcel in the Loveland system. For example, `/us/mi/wayne/detroit/555`. See "Parcel Paths" above for more details.
 
 **Response:**
 A single GeoJSON Feature for the requested parcel (rather than an array of results).
-
 
 ## Response Format
 
