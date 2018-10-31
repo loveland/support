@@ -6,8 +6,6 @@ intro: If your data isn't matching to parcels, here are a few things to try.
 title: Import Troubleshooting
 ---
 
-# Trouble with matching on import 
-
 **If your data isn't matching to parcels, here are a few things to try**
 
 First things first: there needs to be a column in your dataset that we can match to our parcels. 
