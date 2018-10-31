@@ -16,12 +16,12 @@ You'll need at least one of the following:
 
 Let's say you have at least one of these but the percent match is still low. 
 
-**Try these basic things:**
-* Make sure that you are checking the boxes for the correct geography where your data resides.
-* Visually assess your data field - does it look like the rows in the column are in a standard format, and does this look similar to what Loveland has for this parcel when you click it on the map?
-* Double-check that you're trying to match the right columns to each other. It helps to label the headers in your dataset beforehand, so that when you go to import you're sure the field containing your parcel IDs is the one you're trying to match to *our* parcel IDs, etc.
+**Try these steps first:**
+* Make sure that you are checking the boxes for the **correct geography** where your data resides.
+* **Visually assess your data** -- does it look like the rows in the column are in a standard format, and does this look similar to what Loveland has for this parcel when you click it on the map?
+* Double-check that you're trying to **match the right columns** to each other. It helps to label the headers in your dataset beforehand, so that when you go to import you're sure the field containing your parcel IDs is the one you're trying to match to *our* parcel IDs, etc.
 * Try using the dropdown boxes and selecting "Don't Match" for all but the field you think is the best (for example, if you had parcel IDs, try setting all address and lat/long dropdowns to "Don't Match").
-* Import the dataset anyway, then navigate to Manage Map>Datasets>Edit, and at the bottom of the dataset file you'll see a button to download the "import report". This will show you which rows failed to match, and can often provide insight about what's going wrong. You can always delete and reimport the dataset later, once you've figured out the issue.
+* Import the dataset anyway, then navigate to Manage Map>Datasets>Edit, and at the bottom of the dataset file you'll see a button to download the "**import report**". This will show you which rows failed to match, and can often provide insight about what's going wrong. You can always delete and reimport the dataset later, once you've figured out the issue.
 
 **If using addresses or latitude/longitude**
 
