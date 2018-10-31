@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 4
 category: Adding Data
 published: true
 intro: How to add data to your map by importing a CSV
