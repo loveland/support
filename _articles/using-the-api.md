@@ -2,10 +2,7 @@
 weight: 1
 category: Developer Notes
 published: true
-Weight: 1
-Category: For Developers
 intro: How developers can plug in to the Loveland parcel API
-Title: Using the API
 title: Using the API
 ---
 #### Basics
@@ -31,7 +28,7 @@ At Loveland we use place *pathnames* to specify administrative boundaries and un
 `GET /api/v1/search.json?parcelnumb=<pin>&token=<token>`
 
 **Request parameters:**
-* `parcelnumb`: The assessor's parcel number to look up. 
+* `parcelnumb`: The assessor's parcel number to look up.
 * `context` (optional): To specify what county or municipality to search in, you can provide a path. See description above.
 
 
@@ -53,7 +50,7 @@ At Loveland we use place *pathnames* to specify administrative boundaries and un
 * `context` (optional): See notes on `context` parameter above
 
 
-## Parcel details 
+## Parcel details
 
 `GET /api/v1/parcel.json?path=<path>&token=<token>`
 
@@ -109,7 +106,7 @@ All of these requests return a JSON response on success, an array of GeoJSON fea
         ...
       ]
     }
-    
+
 **Notes on properties:**
   * `headline`: a human-friendly display name for the parcel. If no address is available, it falls back to the parcel number.
   * `path`: The parcel's unique identifier as described above in "Place & Parcel Paths"
