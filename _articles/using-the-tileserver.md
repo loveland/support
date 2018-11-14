@@ -2,8 +2,8 @@
 weight: 1
 category: Developer Notes
 published: true
-intro: How developers can use the Loveland tile service
-title: Using the API
+intro: How developers can use the Loveland tileserver
+title: Using the Tileserver
 ---
 
 The Loveland tile service provides parcel tiles in raster and vector formats for use with web mapping tools like [Mapbox GL](https://www.mapbox.com/help/define-mapbox-gl/) and [Leaflet](https://leafletjs.com/). This service is available to clients with a [nationwide data license](https://makeloveland.com/parcels).
@@ -101,7 +101,7 @@ map.on('load', function () {
 
 ### Custom layers
 
-Use a Layer to get tiles with custom styles (raster tiles only) or fields.
+Use a Layer to get tiles with custom styles (raster tiles only).
 
 A Layer defines a set of data and styles. Each layer has a unique ID. Each unqiue set of styles defines new layer -- you cannot edit existing layers.
 
@@ -195,7 +195,7 @@ $.ajax({
     query: {
       parcel: true,
     },
-    styles: 'Map { background-color: rgba(0,0,0,0); } \n #loveland { polygon-fill: #000; }',
+    styles: 'Map { background-color: rgba(0,0,0,0); } #loveland { polygon-fill: #000; }',
   }),
 }).done(function(data) {
   console.log('Got layer', data);
