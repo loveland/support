@@ -1,6 +1,7 @@
-# Loveland Support Site
+# [Depreacated -- use landgrid-support instead](https://github.com/loveland/landgrid-support)
+## Loveland Support Site
 
-# Writing content using the Prose editor
+## Writing content using the Prose editor
 
 1. Browse to https://prose.io and log in using your Github account
 
